@@ -2,7 +2,7 @@
 #include <QApplication>
 
 
-//demosdfsdf
+//demosdfsdfwer we fsd af
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
